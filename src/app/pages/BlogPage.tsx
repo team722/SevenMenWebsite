@@ -107,7 +107,7 @@ console.log(publishedBlogs)
             <div className="inline-flex items-center gap-2 px-5 py-2 rounded-full bg-white/10 backdrop-blur-sm text-white border border-white/20 mb-6">
               <Sparkles size={18} className="text-[#F8B04C]" />
               <span className="text-sm md:text-base font-semibold">
-                Latest Insights
+                Latest Insight
               </span>
             </div>
 
